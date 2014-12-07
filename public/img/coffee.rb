@@ -80,7 +80,7 @@ files.each do |url|
 	end
 end
 
-width = 70 
+width = 50 
 height = width * 4/3
 
 montage = images.montage do |m|
